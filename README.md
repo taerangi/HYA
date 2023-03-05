@@ -1,5 +1,6 @@
-## Toy Project로 진행한 <시각 장애인 편의점 쇼핑 보조 앱 서비스>입니다.
+## HYA(Here You Are) Project
 
+Toy Project로 진행한 <시각 장애인 편의점 쇼핑 보조 앱 서비스>입니다.
 - 참고 영상 링크: https://youtu.be/Ox_i4HHsTuo
 
 
